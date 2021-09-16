@@ -31,6 +31,12 @@ const Sidebar = ({sidebarOpen, closeSidebar}) => {
                 <i className="fa fa-user-circle"></i>
                 <a href="#">Usuários</a>
             </div>
+            
+            <div className="sidebar__link">
+                    <i className="fa fa-product-hunt"></i>
+                    <a href="#">Produtos</a>
+            </div>
+
 
             <div className="sidebar__logout">
                 <i className="fa fa-power-off"></i>

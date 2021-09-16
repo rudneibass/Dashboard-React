@@ -1,6 +1,7 @@
 import avatar from '../../assets/logo.png';
 import './Navbar.css';
 
+
 const Navbar = ({sidebarOpen, openSidebar}) =>{
     return (
     <nav className="navbar">
